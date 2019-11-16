@@ -9,4 +9,4 @@ The bezel packs are used in a RetroPie build for providing game bezels.
 
 The graphics in this repository follow the following design.
 
-![Sample bezel](https://github.com/thebezelproject/bezelprojectSA-AtariJaguar/blob/master/retroarch/overlay/GameBezels/AtariJaguar/Alien%20vs%20Predator%20(World).png?raw=true)
+![Sample bezel](https://github.com/thebezelproject/bezelproject-AtariJaguar/blob/master/retroarch/overlay/GameBezels/AtariJaguar/Alien%20vs%20Predator%20(World).png?raw=true)
